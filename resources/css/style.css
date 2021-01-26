@@ -38,11 +38,27 @@ main {
   width: 100%;
 }
 
+#hero-vid {
+  max-width: 404px;
+  width: 100%;
+}
+
 footer {
-  text-align: right;
+  margin-top: 50px;
+  text-align: center;
+}
+
+article {
+  margin-bottom: 30px;
 }
 
 a.cta {
+  background-color: transparent;
+  border: solid 1px Aquamarine;
+  border-radius: 5px;
   color: Aquamarine;
+  padding: 8px 10px;
+  font-weight: 300;
   font-size: 16px !important;
+  text-decoration: none;
 }
