@@ -1,1 +1,1 @@
-#This project is an .exercise from CodeCademy
+This project is an exercise from CodeCademy
